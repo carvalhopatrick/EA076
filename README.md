@@ -1,5 +1,5 @@
 # EA076
-Code developed during the course of EA076 - Laboratory of Embedded Systems (2nd semester of 2020) at University of Campinas
+Code developed during the course of EA076 - Embedded Systems Laboratory (2nd semester of 2020) at University of Campinas
 
 ### Project 1 - MQTT-based infra-structure
 Simple IoT system using an ARM-based microcontroller (Freedom FRDM-KL25) together with a ESP-01 module. 
